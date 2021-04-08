@@ -1,0 +1,6 @@
+-Player-
+0, 0, -7
+-Models-
+modelIco, 0, 0, 0, 0, 0, 0, 2
+modelCube, 4, 3, 4, 0, 0, 0, 1
+modelTri, 10, 3, 2, 0, 0, 0, 1

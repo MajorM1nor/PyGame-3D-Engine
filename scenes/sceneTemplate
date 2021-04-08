@@ -1,0 +1,13 @@
+# --------------------------------------------------------------
+# DESCRIPTION: Empty template for creating future scenes
+# --------------------------------------------------------------
+# NOTE: EACH SCENE MUST HAVE AT LEAST ONE MODEL AND ONE LIGHT
+# TO BE PROPERLY LOADED. THE "Scene Models" AND "Scene Lights"
+# HEADINGS ARE REQUIRED AND ARE CASE SENSITIVE.
+# MODEL SYNTAX: Model Name, x, y, z, xrot, yrot, zrot, scale
+# --------------------------------------------------------------
+-Player-
+0, 0, 0
+-Models-
+modelTemplate, 0, 0, 0, 0, 0, 0, 1
+-Lights-

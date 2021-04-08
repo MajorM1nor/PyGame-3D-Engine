@@ -1,0 +1,20 @@
+# --------------------------------------------------------------
+# DESCRIPTION: Empty template for creating future models
+# --------------------------------------------------------------
+# NOTE: EACH MODEL MUST HAVE AT LEAST ONE VERTEX AND ONE FACE
+# TO BE PROPERLY LOADED. THE "Model Vertices" AND "Model Faces"
+# HEADINGS ARE REQUIRED AND ARE CASE SENSITIVE.
+# VERTEX SYNTAX: x, y, z
+# (x, y, z): 3D Grid Coordinates for each Vertex in Model
+# --------------------------------------------------------------
+Model Vertices
+0, 0, 0
+# -----------------------------------------------------------
+# NOTE: EVERY MODEL FACE MUST HAVE VERTICES ORDERED IN A
+# CLOCKWISE DIRECTION IN ORDER FOR BACK-FACE CULLING TO WORK
+# FACE SYNTAX: v1, v2, v3, r, g, b
+# (v1, v2, v3): Vertice ID for each Vertex in Polygon
+# (r, g, b): Color value for face, will cap at 255
+# -----------------------------------------------------------
+Model Faces
+0, 0, 0, 0, 0, 0
